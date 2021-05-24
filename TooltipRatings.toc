@@ -1,0 +1,8 @@
+## Interface: 20501
+## Title: Tooltip Ratings
+## Notes: Displays rating values in tooltips
+## Version: 0.1
+## SavedVariables: TooltipRatings
+## SavedVariablesPerCharacter: TooltipRatings
+
+TooltipRatings.lua
